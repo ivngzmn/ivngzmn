@@ -1,8 +1,10 @@
+<img src="./img/animated_title.gif" width=100%  align="left"/>
+
 <p>&nbsp;</p>
 
 ## 📚 About Me:
 
-### Hi there 👋 my name is Ivan Guzman.
+<a href="https://github.com/SABERGLOW/"><img align="right" width="640" height="800" src="./img/Cat_Computer.gif"></a>
 
 - 🚀 I am currently going through <a href = "(https://www.theodinproject.com/)"> The Odin Project </a> Full Stack Ruby on Rails course.
 - 🌱 I'm learning HTML, CSS, and JavaScript.

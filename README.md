@@ -34,6 +34,18 @@
 <a href="https://github.com/ivngzmn">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivngzmn&layout=compact&theme=dracula" /></a>
 
+<p>&nbsp;</p>
+
+<!--
+## 💻 My Projects:
+<p align="center">
+<a href="https://github.com/ivngzmn/#"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=ivngzmn&repo=#&theme=dracula" /></a>
+<a href="https://github.com/ivngzmn/#"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=ivngzmn&repo=#&theme=dracula" /></a>
+<a href="https://github.com/ivngzmn/#"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=ivngzmn&repo=#&theme=dracula" /></a>
+
+---
+ -->
+
 <!--
 **ivngzmn/ivngzmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

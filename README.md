@@ -30,9 +30,9 @@
 <p align="center">
 
 <a href="https://github.com/ivngzmn">
-<img src="https://github-readme-stats.vercel.app/api?username=ivngzmn&show_icons=true&theme=dracula" /></a>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ivngzmn&show_icons=true&theme=dracula" /></a>
 <a href="https://github.com/ivngzmn">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivngzmn&layout=compact&theme=dracula" /></a>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivngzmn&layout=compact&theme=dracula" /></a>
 
 <p>&nbsp;</p>
 

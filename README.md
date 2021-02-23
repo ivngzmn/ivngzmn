@@ -28,7 +28,6 @@
 ## 📈 My Stats: <a href="https://github.com/ivngzmn"> <img src="https://komarev.com/ghpvc/?username=ivngzmn&label=Profile+Views&color=blueviolet&style=plastic" /></a>
 
 <p align="center">
-
 <a href="https://github.com/ivngzmn">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ivngzmn&show_icons=true&theme=dracula" /></a>
 <a href="https://github.com/ivngzmn">

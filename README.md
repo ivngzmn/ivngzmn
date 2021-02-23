@@ -1,17 +1,19 @@
 <p>&nbsp;</p>
 
 ## 📚 About Me:
-### Hi there 👋 my name is Ivan Guzman. 
+
+### Hi there 👋 my name is Ivan Guzman.
 
 - 🚀 I am currently going through <a href = "(https://www.theodinproject.com/)"> The Odin Project </a> Full Stack Ruby on Rails course.
-- 🌱 I'm learning HTML, CSS, and JavaScript Basics. 
-- 🔭 I'm currenly working on Dom manimulation.
+- 🌱 I'm learning HTML, CSS, and JavaScript.
+- 🔭 I'm currently working on Dom manipulation.
 - 😄 Pronouns: he/him/his
-- ⚡️ Fun Fact: I am a father of two wonderful daughters Anja-Pearl and Justice-Rose. 
+- ⚡️ Fun Fact: I am a father of two wonderful daughters.
 
 <p>&nbsp;</p>
 
 ## ☎️ Contact Me:
+
 <p align="center">
 <a href = "mailto:ivan.guzman.art@gmail.com"><img src='https://img.icons8.com/color/48/000000/gmail.png' alt='gmail' height='40'></a>
 <a href = https://github.com/ivngzmn><img src='https://img.icons8.com/color/2x/github--v1.png' alt='github' height='40'></a>

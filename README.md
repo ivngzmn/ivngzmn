@@ -8,7 +8,7 @@
 
 - 🚀 I am currently going through <a href = "(https://www.theodinproject.com/)"> The Odin Project </a> Full Stack Ruby on Rails course.
 - 🌱 I'm learning HTML, CSS, and JavaScript.
-- 🔭 I'm currently working on Dom manipulation.
+- 🔭 I'm currently working on DOM manipulation.
 - 😄 Pronouns: he/him/his
 - ⚡️ Fun Fact: I am a father of two wonderful daughters.
 
@@ -24,6 +24,8 @@
 <a href = https://twitter.com/IvnGzmn><img src='./img/twitter_icon.png' alt='twitter' height='40'></a>
 
 <p>&nbsp;</p>
+
+![ivngzmn's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivngzmn&show_icons=true&theme=radical)
 
 <!--
 **ivngzmn/ivngzmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

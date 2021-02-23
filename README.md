@@ -25,9 +25,14 @@
 
 <p>&nbsp;</p>
 
-## 🚀 My Stats: <a href="https://github.com/ivngzmn"> <img src="https://komarev.com/ghpvc/?username=ivngzmn&label=Profile+Views&color=blueviolet&style=plastic" />
+## 🚀 My Stats: <a href="https://github.com/ivngzmn"> <img src="https://komarev.com/ghpvc/?username=ivngzmn&label=Profile+Views&color=blueviolet&style=plastic" /></a>
 
-![ivngzmn's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivngzmn&show_icons=true&theme=dracula)
+<p align="center">
+
+<a href="https://github.com/ivngzmn">
+<img src="https://github-readme-stats.vercel.app/api?username=ivngzmn&show_icons=true&theme=dracula" /></a>
+<a href="https://github.com/ivngzmn">
+<img width = "40%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivngzmn&layout=compact&theme=dracula" /></a>
 
 <!--
 **ivngzmn/ivngzmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

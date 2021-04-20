@@ -29,7 +29,7 @@
 
 <p align="center">
 <a href="https://github.com/ivngzmn">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ivngzmn&show_icons=true&theme=dracula" /></a>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ivngzmn&count_private=true&show_icons=true&theme=dracula" /></a>
 <a href="https://github.com/ivngzmn">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivngzmn&layout=compact&theme=dracula" /></a>
 

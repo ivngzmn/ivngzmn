@@ -6,6 +6,8 @@
 
 <a href="https://github.com/ivngzmn/"><img align="right" width="300" height="380" src="./img/Cat_Computer.gif"></a>
 
+<p>&nbsp;</p>
+
 - 🚀 I am currently going through <a href = "(https://www.theodinproject.com/)"> The Odin Project </a> Full Stack Ruby on Rails course.
 - 🌱 I'm learning HTML, CSS, and JavaScript.
 - 🔭 I'm currently working on DOM manipulation.

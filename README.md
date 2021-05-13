@@ -26,7 +26,7 @@
 <a href="https://github.com/" title="GitHub"><img src="https://raw.githubusercontent.com/ivngzmn/ivngzmn/main/icons/github-icon.svg" alt="GitHub" height='35' /></a>
 
 **Learning**
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://raw.githubusercontent.com/ivngzmn/ivngzmn/main/icons/javascript.svg" alt="JavaScript"
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://raw.githubusercontent.com/ivngzmn/ivngzmn/main/icons/javascript.svg" alt="JavaScript" height='35' /></a>
 <a href="https://reactjs.org/" title="React"><img src="https://raw.githubusercontent.com/ivngzmn/ivngzmn/main/icons/react.svg" alt="React JS" height='35'/></a>
 
 <p>&nbsp;</p>

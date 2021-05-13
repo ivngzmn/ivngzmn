@@ -9,7 +9,7 @@
 <p>&nbsp;</p>
 
 - 🚀 I am currently going through <a href = "(https://www.theodinproject.com/)"> The Odin Project </a> Full Stack Ruby on Rails course.
-- 🌱 I'm learning HTML, CSS, and JavaScript.
+- 🌱 I'm learning JavaScript.
 - 🔭 I'm currently working on DOM manipulation.
 - 😄 Pronouns: he/him/his
 - ⚡️ Fun Fact: I am a father of two wonderful daughters.
@@ -28,7 +28,7 @@
 
 **Learning**
 
-<a href="https://reactjs.org/" title="React"><img src="https://raw.githubusercontent.com/ivngzmn/ivngzmn/main/icons/react.svg" alt="React JS" height='35' /></a>
+<a href="https://reactjs.org/" title="React"><img src="https://raw.githubusercontent.com/ivngzmn/ivngzmn/main/icons/react.svg" alt="React JS" height='35'/></a>
 
 <p>&nbsp;</p>
 
@@ -52,16 +52,6 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivngzmn&layout=compact&theme=dracula" /></a>
 
 <p>&nbsp;</p>
-
-<!--
-## 🚀 💻 My Projects:
-<p align="center">
-<a href="https://github.com/ivngzmn/#"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=ivngzmn&repo=#&theme=dracula" /></a>
-<a href="https://github.com/ivngzmn/#"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=ivngzmn&repo=#&theme=dracula" /></a>
-<a href="https://github.com/ivngzmn/#"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=ivngzmn&repo=#&theme=dracula" /></a>
-
----
- -->
 
 <!--
 **ivngzmn/ivngzmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

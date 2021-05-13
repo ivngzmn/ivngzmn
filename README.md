@@ -28,7 +28,7 @@
 
 **Learning**
 
-<a href="https://reactjs.org/" title="React"><img src="https://raw.githubusercontent.com/ivngzmn/ivngzmn/main/icons/react.svg" /></a>
+<a href="https://reactjs.org/" title="React"><img src="https://raw.githubusercontent.com/ivngzmn/ivngzmn/main/icons/react.svg" alt="React JS" height='35' /></a>
 
 <p>&nbsp;</p>
 

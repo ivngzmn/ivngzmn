@@ -16,14 +16,30 @@
 
 <p>&nbsp;</p>
 
+**Working With**
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" title="HTML 5"><img src="https://raw.githubusercontent.com/ivngzmn/ivngzmn/main/icons/html-5.svg" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS 3"><img src="https://raw.githubusercontent.com/ivngzmn/ivngzmn/main/icons/html-5.svg" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://raw.githubusercontent.com/ivngzmn/ivngzmn/main/icons/javascript.svg" /></a>
+<a href="https://www.figma.com/" title="Figma"><img src="https://raw.githubusercontent.com/ivngzmn/ivngzmn/main/icons/figma.svg" /></a>
+<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://raw.githubusercontent.com/ivngzmn/ivngzmn/main/icons/visual-studio-code.svg" /></a>
+<a href="https://git-scm.com/" title="Git"><img src="https://raw.githubusercontent.com/ivngzmn/ivngzmn/main/icons/git-icon.svg" /></a>
+<a href="https://github.com/" title="GitHub"><img src="https://raw.githubusercontent.com/ivngzmn/ivngzmn/main/icons/github-icon.svg" /></a>
+
+**Learning**
+
+<a href="https://reactjs.org/" title="React"><img src="icons/react.png" /></a>
+
+<p>&nbsp;</p>
+
 ## ☎️ Contact Me:
 
 <p align="center">
-<a href = https://github.com/ivngzmn><img src='./img/github_icon.png' alt='github' height='40'></a>
-<a href = "mailto:ivan.guzman.art@gmail.com"><img src='./img/gmail_icon.png' alt='gmail' height='40'></a>
-<a href = https://www.linkedin.com/in/ivan-julian-guzman/><img src='./img/linkedin_icon.png' alt='linkedin' height='40'></a>
-<a href = https://www.instagram.com/ivan_codes/><img src='./img/instagram_icon.png' alt='instagram' height='40'></a>
-<a href = https://twitter.com/IvnGzmn><img src='./img/twitter_icon.png' alt='twitter' height='40'></a>
+<a href = https://github.com/ivngzmn><img src="https://raw.githubusercontent.com/ivngzmn/ivngzmn/main/icons/github-icon.svg" alt='github' height='40'></a>
+<a href = "mailto:ivan.guzman.art@gmail.com"><img src='./icons/gmail_icon.png' alt='gmail' height='40'></a>
+<a href = https://www.linkedin.com/in/ivan-julian-guzman/><img src="https://raw.githubusercontent.com/ivngzmn/ivngzmn/main/icons/linkedin-original.svg" alt='linkedIn' height='40'></a>
+<a href = https://www.instagram.com/ivan_codes/><img src="https://raw.githubusercontent.com/ivngzmn/ivngzmn/main/icons/instagram.svg" alt='instagram' height='40'></a>
+<a href = https://twitter.com/IvnGzmn><img src="https://raw.githubusercontent.com/ivngzmn/ivngzmn/main/icons/twitter.svg" alt='twitter' height='40'></a>
 
 <p>&nbsp;</p>
 

@@ -8,7 +8,7 @@
 
 <p>&nbsp;</p>
 
-- 🚀 I am currently going through <a href = "(https://www.theodinproject.com/)"> The Odin Project </a> Full Stack Ruby on Rails course.
+- 🚀 I am currently going through <a href = "(https://www.theodinproject.com/)"> The Odin Project </a> Full Stack JavaScript course.
 - 🌱 I'm learning JavaScript.
 - 🔭 I'm currently working on DOM manipulation.
 - 😄 Pronouns: he/him/his
@@ -20,14 +20,13 @@
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" title="HTML 5"><img src="https://raw.githubusercontent.com/ivngzmn/ivngzmn/main/icons/html-5.svg" alt="HTML5" height='35' /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS 3"><img src="https://raw.githubusercontent.com/ivngzmn/ivngzmn/main/icons/css-3.svg" alt="CSS3" height='35' /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://raw.githubusercontent.com/ivngzmn/ivngzmn/main/icons/javascript.svg" alt="JavaScript" height='35' /></a>
 <a href="https://www.figma.com/" title="Figma"><img src="https://raw.githubusercontent.com/ivngzmn/ivngzmn/main/icons/figma.svg" alt="Figma" height='35' /></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://raw.githubusercontent.com/ivngzmn/ivngzmn/main/icons/visual-studio-code.svg" alt="Visual Studio Code" height='35' /></a>
 <a href="https://git-scm.com/" title="Git"><img src="https://raw.githubusercontent.com/ivngzmn/ivngzmn/main/icons/git-icon.svg" alt="git" height='35' /></a>
 <a href="https://github.com/" title="GitHub"><img src="https://raw.githubusercontent.com/ivngzmn/ivngzmn/main/icons/github-icon.svg" alt="GitHub" height='35' /></a>
 
 **Learning**
-
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://raw.githubusercontent.com/ivngzmn/ivngzmn/main/icons/javascript.svg" alt="JavaScript"
 <a href="https://reactjs.org/" title="React"><img src="https://raw.githubusercontent.com/ivngzmn/ivngzmn/main/icons/react.svg" alt="React JS" height='35'/></a>
 
 <p>&nbsp;</p>

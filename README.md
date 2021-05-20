@@ -39,7 +39,7 @@
 <a href = "mailto:ivan.guzman.art@gmail.com"><img src='./icons/gmail_icon.png' alt='gmail' height='40'></a>
 <a href = https://www.linkedin.com/in/ivan-julian-guzman/><img src="https://raw.githubusercontent.com/ivngzmn/ivngzmn/main/icons/linkedin-original.svg" alt='linkedIn' height='40'></a>
 <a href = https://www.instagram.com/ivan_codes/><img src="https://raw.githubusercontent.com/ivngzmn/ivngzmn/main/icons/instagram.svg" alt='instagram' height='40'></a>
-<a href = https://twitter.com/IvnGzmn><img src="https://raw.githubusercontent.com/ivngzmn/ivngzmn/main/icons/twitter.svg" alt='twitter' height='40'></a>
+<a href = https://twitter.com/ivan_codes><img src="https://raw.githubusercontent.com/ivngzmn/ivngzmn/main/icons/twitter.svg" alt='twitter' height='40'></a>
 
 <p>&nbsp;</p>
 

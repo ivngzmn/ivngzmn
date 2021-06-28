@@ -4,7 +4,7 @@
 
 ## 📚 About Me:
 
-<a href="https://github.com/ivngzmn/"><img align="right" width="300" height="380" src="./img/Cat_Computer.gif"></a>
+<a href="https://github.com/ivngzmn/"><img align="right" width="280" height="360" src="./img/Cat_Computer.gif"></a>
 
 <p>&nbsp;</p>
 
@@ -36,9 +36,8 @@
 
 <p align="center">
 <a href = https://github.com/ivngzmn><img src="https://raw.githubusercontent.com/ivngzmn/ivngzmn/main/icons/github-icon.svg" alt='github' height='40'></a>
-<a href = "mailto:ivan.guzman.art@gmail.com"><img src='./icons/gmail_icon.png' alt='gmail' height='40'></a>
+<a href = "mailto:ivanguzmandev@gmail.com"><img src='./icons/gmail_icon.png' alt='gmail' height='40'></a>
 <a href = https://www.linkedin.com/in/ivan-julian-guzman/><img src="https://raw.githubusercontent.com/ivngzmn/ivngzmn/main/icons/linkedin-original.svg" alt='linkedIn' height='40'></a>
-<a href = https://www.instagram.com/ivan_codes/><img src="https://raw.githubusercontent.com/ivngzmn/ivngzmn/main/icons/instagram.svg" alt='instagram' height='40'></a>
 <a href = https://twitter.com/ivan_codes><img src="https://raw.githubusercontent.com/ivngzmn/ivngzmn/main/icons/twitter.svg" alt='twitter' height='40'></a>
 
 <p>&nbsp;</p>

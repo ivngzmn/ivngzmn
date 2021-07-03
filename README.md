@@ -8,7 +8,7 @@
 
 <p>&nbsp;</p>
 
-- 🚀 I am currently going through <a href = "(https://leonnoel.com/100devs/)"> #100Devs </a> Full Stack course.
+- 🚀 I am currently going through <a href= "(https://leonnoel.com/100devs/)"> #100Devs </a> Full Stack course.
 - 🌱 I'm learning JavaScript.
 - 🔭 I'm currently working on DOM manipulation.
 - ⚡️ Fun Fact: I am a father of two wonderful daughters.

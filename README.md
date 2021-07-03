@@ -8,10 +8,9 @@
 
 <p>&nbsp;</p>
 
-- 🚀 I am currently going through <a href = "(https://www.theodinproject.com/)"> The Odin Project </a> Full Stack JavaScript course.
+- 🚀 I am currently going through <a href = "(https://leonnoel.com/100devs/)"> #100Devs </a> Full Stack course.
 - 🌱 I'm learning JavaScript.
 - 🔭 I'm currently working on DOM manipulation.
-- 😄 Pronouns: he/him/his
 - ⚡️ Fun Fact: I am a father of two wonderful daughters.
 
 <p>&nbsp;</p>

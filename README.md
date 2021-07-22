@@ -2,47 +2,78 @@
 
 <p>&nbsp;</p>
 
-## 📚 About Me:
+<!-- ## 📚 About Me: -->
+
+### <div align="center">I'm Ivan, a software engineer at 100Devs 👨‍💻.</div>
 
 <a href="https://github.com/ivngzmn/"><img align="right" width="280" height="360" src="./img/Cat_Computer.gif"></a>
 
 <p>&nbsp;</p>
 
-- 🚀 I am currently going through <a href= "(https://leonnoel.com/100devs/)"> #100Devs </a> Full Stack course.
-- 🌱 I'm learning JavaScript.
-- 🔭 I'm currently working on DOM manipulation.
-- ⚡️ Fun Fact: I am a father of two wonderful daughters.
+- 🌱 I’m currently learning Tailwind CSS and Next.js
+- ❓ Feel free to connect with have any questions or just want to have a coffee ☕️ chat.
+- ⚡ Fun fact: I am a father of two wonderful
 
 <p>&nbsp;</p>
 
-**Working With**
+## My Skill Set
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" title="HTML 5"><img src="https://raw.githubusercontent.com/ivngzmn/ivngzmn/main/icons/html-5.svg" alt="HTML5" height='35' /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS 3"><img src="https://raw.githubusercontent.com/ivngzmn/ivngzmn/main/icons/css-3.svg" alt="CSS3" height='35' /></a>
-<a href="https://www.figma.com/" title="Figma"><img src="https://raw.githubusercontent.com/ivngzmn/ivngzmn/main/icons/figma.svg" alt="Figma" height='35' /></a>
-<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://raw.githubusercontent.com/ivngzmn/ivngzmn/main/icons/visual-studio-code.svg" alt="Visual Studio Code" height='35' /></a>
-<a href="https://www.gnu.org/software/bash/" title="bash"><img src="https://raw.githubusercontent.com/ivngzmn/ivngzmn/main/icons/bash-icon.svg" alt="bash" height='35' /></a>
-<a href="https://git-scm.com/" title="Git"><img src="https://raw.githubusercontent.com/ivngzmn/ivngzmn/main/icons/git-icon.svg" alt="git" height='35' /></a>
-<a href="https://github.com/" title="GitHub"><img src="https://raw.githubusercontent.com/ivngzmn/ivngzmn/main/icons/github-icon.svg" alt="GitHub" height='35' /></a>
+<table><tr><td valign="top" width="33%">
 
-**Learning**
+### Frontend
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://raw.githubusercontent.com/ivngzmn/ivngzmn/main/icons/javascript.svg" alt="JavaScript" height='35' /></a>
-<a href="https://reactjs.org/" title="React"><img src="https://raw.githubusercontent.com/ivngzmn/ivngzmn/main/icons/react.svg" alt="React JS" height='35'/></a>
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />  
+</div>
+
+</td><td valign="top" width="33%">
+
+### Backend
+
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
+</div>
+
+</td><td valign="top" width="33%">
+
+### DevOps
+
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
+</div>
+
+</td></tr></table>
 
 <p>&nbsp;</p>
 
-## ☎️ Contact Me:
+<br/>
 
-<p align="center">
-<a href = https://github.com/ivngzmn><img src="https://raw.githubusercontent.com/ivngzmn/ivngzmn/main/icons/github-icon.svg" alt='github' height='40'></a>
-<a href = "mailto:ivanguzmandev@gmail.com"><img src='./icons/gmail_icon.png' alt='gmail' height='40'></a>
-<a href = https://www.linkedin.com/in/ivan-julian-guzman/><img src="https://raw.githubusercontent.com/ivngzmn/ivngzmn/main/icons/linkedin-original.svg" alt='linkedIn' height='40'></a>
-<a href = https://twitter.com/ivan_codes><img src="https://raw.githubusercontent.com/ivngzmn/ivngzmn/main/icons/twitter.svg" alt='twitter' height='40'></a>
+## Connect with me
+
+<div align="center">
+<a href="https://github.com/ivngzmn" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/ivan_codes" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/ivan-julian-guzman" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/ivan_codes" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+</div>
 
 <p>&nbsp;</p>
 
-## 📈 My Stats: <a href="https://github.com/ivngzmn"> <img src="https://komarev.com/ghpvc/?username=ivngzmn&label=Profile+Views&color=blueviolet&style=plastic" /></a>
+## My Stats: <a href="https://github.com/ivngzmn"> <img src="https://komarev.com/ghpvc/?username=ivngzmn&label=Profile+Views&color=blueviolet&style=plastic" /></a>
 
 <p align="center">
 <a href="https://github.com/ivngzmn">
@@ -52,17 +83,17 @@
 
 <p>&nbsp;</p>
 
-<!--
-**ivngzmn/ivngzmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=1271605188&cover_image=true&theme=compact" /></div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+<div align="center">
+            <a href="https://www.buymeacoffee.com/ivanguzmandev" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" 
+                    align="center"
+                />
+            </a></div>
+<br />

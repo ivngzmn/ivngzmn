@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning Tailwind CSS and Next.js
 - ❓ Feel free to connect with have any questions or just want to have a coffee ☕️ chat.
-- ⚡ Fun fact: I am a father of two wonderful
+- ⚡ Fun fact: I am a father of two wonderful daughters.
 
 <p>&nbsp;</p>
 

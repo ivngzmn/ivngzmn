@@ -1,8 +1,9 @@
 <img src="./img/animated_title.gif" width=100%  align="left"/>
 
 <p>&nbsp;</p>
+<a href="https://github.com/ivngzmn"> <img src="https://komarev.com/ghpvc/?username=ivngzmn&label=Profile+Views&color=blueviolet&style=plastic" /></a>
 
-<!-- ## 📚 About Me: -->
+## About Me
 
 ### <div align="center">I'm Ivan, a software engineer at 100Devs 👨‍💻.</div>
 
@@ -73,7 +74,7 @@
 
 <p>&nbsp;</p>
 
-## My Stats: <a href="https://github.com/ivngzmn"> <img src="https://komarev.com/ghpvc/?username=ivngzmn&label=Profile+Views&color=blueviolet&style=plastic" /></a>
+## My Stats
 
 <p align="center">
 <a href="https://github.com/ivngzmn">
@@ -83,11 +84,13 @@
 
 <p>&nbsp;</p>
 
-<br/>
+### What I am jamming to
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=1271605188&cover_image=true&theme=compact" /></div>
 
-<br/>
+<p>&nbsp;</p>
+
+### Support
 
 <div align="center">
             <a href="https://www.buymeacoffee.com/ivanguzmandev" target="_blank" style="display: inline-block;">
@@ -96,4 +99,3 @@
                     align="center"
                 />
             </a></div>
-<br />

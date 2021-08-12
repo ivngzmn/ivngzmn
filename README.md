@@ -36,8 +36,9 @@
 ### Backend
 
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />
 </div>
 
 </td><td valign="top" width="33%">
@@ -95,7 +96,7 @@
 <div align="center">
             <a href="https://www.buymeacoffee.com/ivanguzmandev" target="_blank" style="display: inline-block;">
                 <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" 
+                    src="https://img.shields.io/badge/Support-Buy%20Me%20A%20Coffee%20%E2%98%95%EF%B8%8F%20%20-success" 
                     align="center"
                 />
             </a></div>

@@ -1,17 +1,20 @@
-<a src="https://github.com/ivngzmn/">
+<a href="https://github.com/ivngzmn/">
     <img src="./img/animated_title.gif" width=100%  align="left"/>
 </a>
 
 <p>&nbsp;</p>
+
 <div align="center">
     <a href="https://github.com/ivngzmn"> 
         <img src="https://komarev.com/ghpvc/?username=ivngzmn&label=Profile+Views&color=blueviolet&style=plastic" />
     </a>
 </div>
 
+<p>&nbsp;</p>
+
 ## About Me
 
-#### <div align="left">I'm Ivan, a software engineer at 100Devs 👨‍💻.</div>
+### <div align="left">I'm Ivan, a software engineer at 100Devs 👨‍💻.</div>
 
 <div align="center">
     <a href="https://github.com/ivngzmn/">
@@ -68,7 +71,7 @@
 
 <br/>
 
-## Connect with me
+## Let's Connect
 
 <div align="center">
     <a href="https://github.com/ivngzmn" target="_blank">
@@ -93,24 +96,26 @@
     <a href="https://github.com/ivngzmn">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=ivngzmn&count_private=true&show_icons=true&theme=dracula" /></a>
     <a href="https://github.com/ivngzmn">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivngzmn&layout=compact&theme=dracula" /></a>
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivngzmn&layout=compact&hide=css&theme=dracula" /></a>
 </div>
 
 <p>&nbsp;</p>
 
-### What I am jamming to
+## What I am jamming to
 
 <div align="center">
-    <a src="https://github.com/ivngzmn">
+    <a href="https://github.com/ivngzmn">
         <img src="https://spotify-github-profile.vercel.app/api/view?uid=1271605188&cover_image=true&theme=compact" /></a>
 </div>
 
 <p>&nbsp;</p>
 
-### Support
+## Support
 
 <div align="center">
     <a href="https://www.buymeacoffee.com/ivanguzmandev" target="_blank" style="display: inline-block;">
         <img src="https://img.shields.io/badge/Support-Buy%20Me%20A%20Coffee%20%E2%98%95%EF%B8%8F%20%20-success" 
         align="center"/></a>
 </div>
+
+<p>&nbsp;</p>

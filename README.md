@@ -27,7 +27,7 @@
 - 🌱 I’m currently learning Tailwind CSS and Next.js as well as anything that I have to learn JIT.
 - ❓ Feel free to reach out on [socials](https://ivngzmn.github.io/) to have a coffee ☕️ chat.
 - 🚀 Working on getting my portfolio completed.
-- ⏲ Current project that I am working on is [Azure AD Authenticated Todo Web App](https://github.com/ivngzmn/todo-microsoft-auth-mvc).
+- ⏲ Current project that I am working on is [Coin Forge - Cryptocurrency Stats and News](https://github.com/ivngzmn/coin-forge).
 - ☕️ ["Blxck is Gxld"](https://cxffeeblack.com/collections/guji-mane-coffee/products/blxck-is-gxld-yailton-caicedo-colombian-guji-mane-diaspora-collection) coffee blend in my AeroPress.
 - ⚡ Fun fact: I am a father of two wonderful daughters and I also love Saltwater Reef Aquariums.
 

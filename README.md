@@ -26,7 +26,7 @@
 
 - 🌱  I’m currently learning about Ethereum and how to mint my first NFT.
 - ❓  Feel free to reach out on [socials](https://ivngzmn.github.io/) to have a coffee ☕️ chat. 
-- ⏲  Current project that I am working on is [Coin Forge - Cryptocurrency Stats and News](https://github.com/ivngzmn/coin-forge).
+- ⏲  Current project that I am working on is [Coin Forge - Cryptocurrency Stats](https://github.com/ivngzmn/coin-forge).
 - ☕️  ["Blxck is Gxld"](https://cxffeeblack.com/collections/guji-mane-coffee/products/blxck-is-gxld-yailton-caicedo-colombian-guji-mane-diaspora-collection) coffee blend in my AeroPress.
 - ⚡  Fun fact: I am a father of two wonderful daughters and I also love Saltwater Reef Aquariums.
 

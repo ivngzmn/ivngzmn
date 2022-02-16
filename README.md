@@ -32,6 +32,13 @@
 
 <p>&nbsp;</p>
 
+## Recent Blog Posts
+
+- [Setting up your macOS Terminal](https://www.ivanguzman.dev/blog/macos-terminal)
+- [The Story of my journey into Tech](https://www.ivanguzman.dev/blog/my-journey)
+
+<p>&nbsp;</p>
+
 ## My Skill Set
 
 <table><tr><td valign="top" width="2a%">

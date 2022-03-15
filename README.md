@@ -1,12 +1,29 @@
+<div align="center">
+    <a href="https://github.com/ivngzmn"> 
+        <img src="https://komarev.com/ghpvc/?username=ivngzmn&label=Profile+Views&color=blueviolet&style=plastic" />
+    </a>
+</div>
+
+<p>&nbsp;</p>
+
 <a href="https://github.com/ivngzmn/">
-    <img src="./img/animated_title.gif" width=100%  align="left"/>
+    <img src="./img/githubbanner.png" width=100%  align="left"/>
 </a>
 
 <p>&nbsp;</p>
 
 <div align="center">
-    <a href="https://github.com/ivngzmn"> 
-        <img src="https://komarev.com/ghpvc/?username=ivngzmn&label=Profile+Views&color=blueviolet&style=plastic" />
+    <a href="https://www.ivanguzman.dev" target="_blank">
+        <img src=https://img.shields.io/badge/website-%23512BD4.svg?&style=for-the-badge&logo=googlechrome&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+    </a>  
+    <a href="https://twitter.com/zaku_dev" target="_blank">
+        <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+    </a>
+    <a href="https://linkedin.com/in/ivan-julian-guzman" target="_blank">
+        <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+    </a>
+    <a href="https://www.ivanguzman.dev/resume" target="_blank">
+        <img src=https://img.shields.io/badge/resume-%23EC1C24.svg?&style=for-the-badge&logo=AdobeAcrobatReader&logoColor=white alt=resume style="margin-bottom: 5px;" />
     </a>
 </div>
 
@@ -16,16 +33,10 @@
 
 ### <div align="left">I'm Ivan, a software engineer at 100Devs 👨‍💻.</div>
 
-<div align="center">
-    <a href="https://github.com/ivngzmn/">
-        <img width="280" height="360" src="./img/Cat_Computer.gif">
-    </a>
-</div>
-
 <p>&nbsp;</p>
 
 - 🌱 I’m currently learning about Ethereum and how to mint my first NFT.
-- ❓ Feel free to reach out on [socials](https://ivngzmn.github.io/) to have a coffee ☕️ chat.
+- ❓ Feel free to reach out on [Twitter](https://twitter.com/zaku_dev) to have a coffee ☕️ chat.
 - ⏲ Current project that I am working on is [Coin Forge - Cryptocurrency Stats](https://github.com/ivngzmn/coin-forge).
 - ☕️ ["Blxck is Gxld"](https://cxffeeblack.com/collections/guji-mane-coffee/products/blxck-is-gxld-yailton-caicedo-colombian-guji-mane-diaspora-collection) coffee blend in my AeroPress.
 - ⚡ Fun fact: I am a father of two wonderful daughters and I also love Saltwater Reef Aquariums.
@@ -39,7 +50,7 @@
 
 <p>&nbsp;</p>
 
-## My Skill Set
+## Skills
 
 <table><tr><td valign="top" width="2a%">
 
@@ -59,7 +70,10 @@
         <img src=https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black alt=javascript style="margin-bottom: 5px;" />
     </a> 
     <a href="#">
-        <img src=https://img.shields.io/badge/React-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black alt=react style="margin-bottom: 5px;" />
+        <img src=https://img.shields.io/badge/React-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black alt=react.js style="margin-bottom: 5px;" />
+    </a>
+    <a href="#">
+        <img src=https://img.shields.io/badge/next.js-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white alt=next.js style="margin-bottom: 5px;" />
     </a>
 </div>
 
@@ -131,23 +145,6 @@
 <p>&nbsp;</p>
 
 <br/>
-
-## Let's Connect
-
-<div align="center">
-    <a href="https://github.com/ivngzmn" target="_blank">
-        <img src=https://img.shields.io/badge/github-%237745FF.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-    </a>
-    <a href="https://twitter.com/zaku_dev" target="_blank">
-        <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-    </a>
-    <a href="https://linkedin.com/in/ivan-julian-guzman" target="_blank">
-        <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-    </a>
-    <a href="https://instagram.com/zaku_dev" target="_blank">
-        <img src=https://img.shields.io/badge/instagram-%23FF875B.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-    </a>  
-</div>
 
 <p>&nbsp;</p>
 

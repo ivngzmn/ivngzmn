@@ -4,8 +4,6 @@
     </a>
 </div>
 
-<p>&nbsp;</p>
-
 <a href="https://github.com/ivngzmn/">
     <img src="./img/githubbanner.png" width=100%  align="left"/>
 </a>

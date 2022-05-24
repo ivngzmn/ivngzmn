@@ -87,6 +87,9 @@
     <a href="#">
         <img src=https://img.shields.io/badge/mongodb-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white alt=mongodb style="margin-bottom: 5px;" />
     </a>
+    <a href="#">
+        <img src=https://img.shields.io/badge/graphql-%23E10098.svg?&style=for-the-badge&logo=graphql&logoColor=white alt=graphql style="margin-bottom: 5px;" />
+    </a>
 </div>
 
 </td><td valign="top" width="25%">

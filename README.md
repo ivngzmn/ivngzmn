@@ -31,18 +31,18 @@
 
 ### <div align="left">I'm Ivan, a software engineer at 100Devs 👨‍💻.</div>
 
--   🌱 I’m currently learning about Ethereum and how to mint my first NFT.
--   ❓ Feel free to reach out on [Twitter](https://twitter.com/zaku_dev) to have a coffee ☕️ chat.
--   ⏲ Current project that I am working on is [Coin Forge - Cryptocurrency Stats](https://github.com/ivngzmn/coin-forge).
--   ☕️ ["Blxck is Gxld"](https://cxffeeblack.com/collections/guji-mane-coffee/products/blxck-is-gxld-yailton-caicedo-colombian-guji-mane-diaspora-collection) coffee blend in my AeroPress.
--   ⚡ Fun fact: I am a father of two wonderful daughters and I also love Saltwater Reef Aquariums and [mechanical keyboards](https://github.com/ivngzmn/afternoon-labs-breeze-keeb).
+- 🌱 I’m currently learning about Ethereum and how to mint my first NFT.
+- ❓ Feel free to reach out on [Twitter](https://twitter.com/zaku_dev) to have a coffee ☕️ chat.
+- ⏲ Current project that I am working on is [Coin Forge - Cryptocurrency Stats](https://github.com/ivngzmn/coin-forge).
+- ☕️ ["Blxck is Gxld"](https://cxffeeblack.com/collections/guji-mane-coffee/products/blxck-is-gxld-yailton-caicedo-colombian-guji-mane-diaspora-collection) coffee blend in my AeroPress.
+- ⚡ Fun fact: I am a father of two wonderful daughters and I also love Saltwater Reef Aquariums and [mechanical keyboards](https://github.com/ivngzmn/afternoon-labs-breeze-keeb).
 
 <p>&nbsp;</p>
 
 ## Recent Blog Posts
 
--   [Setting up your macOS Terminal](https://www.ivanguzman.dev/blog/macos-terminal)
--   [The Story of my journey into Tech](https://www.ivanguzman.dev/blog/my-journey)
+- [Setting up your macOS Terminal](https://www.ivanguzman.dev/blog/macos-terminal)
+- [The Story of my journey into Tech](https://www.ivanguzman.dev/blog/my-journey)
 
 <p>&nbsp;</p>
 
@@ -70,6 +70,9 @@
     </a>
     <a href="#">
         <img src=https://img.shields.io/badge/next.js-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white alt=next.js style="margin-bottom: 5px;" />
+    </a>
+    <a href="#">
+        <img src=https://img.shields.io/badge/typescript-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white alt=typescript style="margin-bottom: 5px;" />
     </a>
 </div>
 

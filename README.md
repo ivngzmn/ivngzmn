@@ -14,28 +14,32 @@
     <a href="https://www.ivanguzman.dev" target="_blank">
         <img src=https://img.shields.io/badge/website-%23512BD4.svg?&style=for-the-badge&logo=googlechrome&logoColor=white alt=instagram style="margin-bottom: 5px;" />
     </a>  
-    <a href="https://twitter.com/zaku_dev" target="_blank">
+    <a href="https://twitter.com/inadequate_Dev" target="_blank">
         <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
     </a>
-    <a href="https://linkedin.com/in/ivan-julian-guzman" target="_blank">
+    <a href="https://linkedin.com/in/ivan-j-guzman" target="_blank">
         <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
     </a>
     <a href="https://www.ivanguzman.dev/resume" target="_blank">
         <img src=https://img.shields.io/badge/resume-%23EC1C24.svg?&style=for-the-badge&logo=AdobeAcrobatReader&logoColor=white alt=resume style="margin-bottom: 5px;" />
     </a>
+
+![Codewars badge](https://www.codewars.com/users/inadequateDev/badges/large)
+
 </div>
 
 <p>&nbsp;</p>
 
-## About Me
+## Bio
 
-### <div align="left">I'm Ivan, a software engineer at 100Devs 👨‍💻.</div>
+## Hey, I’m Ivan! I’m a full stack developer 🥞.
 
-- 🌱 I’m currently learning about Ethereum and how to mint my first NFT.
-- ❓ Feel free to reach out on [Twitter](https://twitter.com/zaku_dev) to have a coffee ☕️ chat.
-- ⏲ Current project that I am working on is [Coin Forge - Cryptocurrency Stats](https://github.com/ivngzmn/coin-forge).
+## I help build full-stack web applications that are performant and accessible. It's great to meet you.
+
+- 🌱 I’m currently learning about Typescript.
+- ❓ Feel free to reach out on [Twitter](https://twitter.com/inadequate_Dev) to have a coffee ☕️ chat.
 - ☕️ ["Blxck is Gxld"](https://cxffeeblack.com/collections/guji-mane-coffee/products/blxck-is-gxld-yailton-caicedo-colombian-guji-mane-diaspora-collection) coffee blend in my AeroPress.
-- ⚡ Fun fact: I am a father of two wonderful daughters and I also love Saltwater Reef Aquariums and [mechanical keyboards](https://github.com/ivngzmn/afternoon-labs-breeze-keeb).
+- ⚡ Fun fact: I am a father of two wonderful daughters and I also love [Saltwater Reef Aquariums 🐠 🪸](https://github.com/ivngzmn/reef-aquarium-supplement-calculator) and [mechanical keyboards ⌨️](https://github.com/ivngzmn/afternoon-labs-breeze-keeb).
 
 <p>&nbsp;</p>
 
@@ -148,15 +152,161 @@
 
 <br/>
 
+## Projects
+
+<div align="center">
+	<table>
+		<tr>
+			<td width="50%">
+				<h3 align="center">Pronto Coffee Co.</h3>
+				<div align="center">  
+					<a href='https://pronto-coffee-co.herokuapp.com/' target="_blank">
+						<img src="https://raw.githubusercontent.com/ivngzmn/ivanguzmandev/main/public/static/images/projects/prontoCoffeeCo.webp" alt="pronto coffee co." height="100%" />
+					</a>
+					<br>
+					<br>
+					<p>
+						<a href="https://github.com/ivngzmn/pronto-coffee-co" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+						<a href="https://pronto-coffee-co.herokuapp.com/" target="_blank">
+              <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+						</a>
+					</p>
+					<p><strong>HTML, Tailwind CSS, Javascript, EJS, Node.js, Express, MongoDB</strong></p>
+          <p>
+						A full stack web application that allows a barista, login, add to an order, view pending orders, view completed orders and complete orders. Orders that have been completed will note which barista completed the order.
+					</p>
+				</div>
+			</td>
+			<td width="50%">
+				<h3 align="center">Coin Forge</h3>
+				<div align="center" >  
+					<a href='https://coinforge.vercel.app/' target="_blank">
+						<img src="https://raw.githubusercontent.com/ivngzmn/ivanguzmandev/main/public/static/images/projects/coinForge.webp" alt="coin forge" height="100%" />
+					</a>
+					<br>
+					<br>
+					<p>
+						<a href="https://github.com/ivngzmn/coin-forge" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+						<a href="https://coinforge.vercel.app/" target="_blank">
+							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+						</a>	
+					</p>
+					 <p><strong>React.js, Tailwind CSS</strong></p>
+					<p>Cryptocurrency is something that has interested me since hearing about people building rigs and people conversing about Non Fungible Tokens. So with that interest in mind I decided to create a Crypto web app that has 100 coins and Coin Gecko API. Thanks for stopping by and I hope you enjoy.</p>
+				</div>
+        </tr>
+	    <tr>
+            <td width="50%">
+                <h3 align="center">Belen Law</h3>
+                <div align="center" >  
+                    <a href='https://belengomezlaw.vercel.app/' target="_blank">
+                        <img src="https://raw.githubusercontent.com/ivngzmn/ivanguzmandev/main/public/static/images/projects/belenLaw.webp" alt="project 3" height="100%" />
+                    </a>
+                    <br>
+                    <br>
+                    <p>
+                        <a href="https://github.com/ivngzmn/belen-law" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+						<a href="https://belengomezlaw.vercel.app/" target="_blank">
+							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+						</a>
+                    </p>
+                    <p><strong>React.js, Tailwind CSS</strong></p>
+		    <p>This website is for Attorney Belen Gomez, APC. She had built her own website via WordPress but was having trouble with styling and SEO. We came of with a plan to modernize her website. We are in the works to add WordPress API as a headless CMS so that she and her team can update the website as they desire.</p>
+                </div>
+            </td>
+            <td width="50%">
+                <h3 align="center">Thuyen Vien Vegan Restaurant</h3>
+                <div align="center">  
+                    <a href='https://thuyenvienrestaurant.vercel.app/' target="_blank">
+                        <img src="https://raw.githubusercontent.com/ivngzmn/ivanguzmandev/main/public/static/images/projects/thuyenVien.webp" alt="project 4" height="100%" />
+                    </a>
+                    <br>
+                    <br>
+                    <p>
+                        <a href="#" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+						<a href="https://thuyenvienrestaurant.vercel.app/" target="_blank">
+							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+						</a>	
+                    </p>
+                    <p><strong>HTML, Bootstap CSS, JavaScript</strong></p>
+		    <p>This is a restaurant website that I built for a local vegan restaurant. I wanted to make a website that was simple and easy to use for their customers. I used Bootstrap for the styling and Javascript for the animations.</p>
+                </div>	
+            </td>
+        </tr>
+        <tr>
+            <td width="50%">
+                <h3 align="center">Travel Landing Page</h3>
+                <div align="center" >  
+                    <a href='https://travel-landing-page-omega-vert.vercel.app/' target="_blank">
+                        <img src="https://raw.githubusercontent.com/ivngzmn/ivanguzmandev/main/public/static/images/projects/travelLandingPage.webp" alt="project 3" height="100%" />
+                    </a>
+                    <br>
+                    <br>
+                    <p>
+                        <a href="https://github.com/ivngzmn/travel-landing-page" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+						<a href="https://travel-landing-page-omega-vert.vercel.app/" target="_blank">
+							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+						</a>
+                    </p>
+                    <p><strong>HTML, CSS, Javascript</strong></p>
+		    <p>An Airbnb inspired landing page with emphasis on learning more about CSS Grid. When working with this project there is a ton that goes into grid as well as flex. One of the great things about grid is that you are able to quickly scaffold your columns and rows.</p>
+                </div>
+            </td>
+            <td width="50%">
+                <h3 align="center">Star Trek API</h3>
+                <div align="center">  
+                    <a href='https://star-trek-beta.vercel.app/' target="_blank">
+                        <img src="https://raw.githubusercontent.com/ivngzmn/ivanguzmandev/main/public/static/images/projects/starTrekApi.webp" alt="project 4" height="100%" />
+                    </a>
+                    <br>
+                    <br>
+                    <p>
+                        <a href="https://github.com/ivngzmn/star-trek-client" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+						<a href="https://star-trek-beta.vercel.app/" target="_blank">
+							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+						</a>	
+                    </p>
+                    <p><strong>HTML, CSS, Javascript, Node.js, Express, MongoDB</strong></p>
+		    <p>This project is the front end that consumes the Star Trek Guid to Aliens api that I built. Please take a look at the repo details for the Star Trek Guid to Aliens API Repo to experience the API to its fullest. Live long and prosper.</p>
+                </div>	
+            </td>
+        </tr>
+	</table>
+</div>
+<br />
+<br />
+<hr>
+
 <p>&nbsp;</p>
 
 ## My Stats
 
 <div align="center">
-    <a href="https://github.com/ivngzmn">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=ivngzmn&count_private=true&show_icons=true&theme=dracula" /></a>
-    <a href="https://github.com/ivngzmn">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivngzmn&layout=compact&hide=css&theme=dracula" /></a>
+
+<a href="https://github.com/ivngzmn">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivngzmn&layout=compact&hide=css&theme=dracula" />
+    </a>
+<p>&nbsp;</p>
+<a href="https://github.com/ivngzmn">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=ivngzmn&count_private=true&show_icons=true&theme=dracula" />
+    </a>
+<p>&nbsp;</p>
+<a href="https://github.com/ivngzmn">
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ivngzmn&theme=dracula" alt="ivngzmn" />
+    </a>
+
 </div>
 
 <p>&nbsp;</p>

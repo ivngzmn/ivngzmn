@@ -161,7 +161,7 @@
 				<h3 align="center">Pronto Coffee Co.</h3>
 				<div align="center">  
 					<a href='https://pronto-coffee-co.herokuapp.com/' target="_blank">
-						<img src="https://raw.githubusercontent.com/ivngzmn/ivanguzmandev/main/public/static/images/projects/prontoCoffeeCo.webp" alt="pronto coffee co." height="100%" />
+						<img src="https://raw.githubusercontent.com/ivngzmn/ivanguzmandev/main/public/static/images/projects/prontoCoffeeCo.webp" alt="pronto coffee co." width="100%" />
 					</a>
 					<br>
 					<br>
@@ -183,7 +183,7 @@
 				<h3 align="center">Coin Forge</h3>
 				<div align="center" >  
 					<a href='https://coinforge.vercel.app/' target="_blank">
-						<img src="https://raw.githubusercontent.com/ivngzmn/ivanguzmandev/main/public/static/images/projects/coinForge.webp" alt="coin forge" height="100%" />
+						<img src="https://raw.githubusercontent.com/ivngzmn/ivanguzmandev/main/public/static/images/projects/coinForge.webp" alt="coin forge" width="100%" />
 					</a>
 					<br>
 					<br>
@@ -204,7 +204,7 @@
                 <h3 align="center">Belen Law</h3>
                 <div align="center" >  
                     <a href='https://belengomezlaw.vercel.app/' target="_blank">
-                        <img src="https://raw.githubusercontent.com/ivngzmn/ivanguzmandev/main/public/static/images/projects/belenLaw.webp" alt="project 3" height="100%" />
+                        <img src="https://raw.githubusercontent.com/ivngzmn/ivanguzmandev/main/public/static/images/projects/belenLaw.webp" alt="project 3" width="100%" />
                     </a>
                     <br>
                     <br>
@@ -224,7 +224,7 @@
                 <h3 align="center">Thuyen Vien Vegan Restaurant</h3>
                 <div align="center">  
                     <a href='https://thuyenvienrestaurant.vercel.app/' target="_blank">
-                        <img src="https://raw.githubusercontent.com/ivngzmn/ivanguzmandev/main/public/static/images/projects/thuyenVien.webp" alt="project 4" height="100%" />
+                        <img src="https://raw.githubusercontent.com/ivngzmn/ivanguzmandev/main/public/static/images/projects/thuyenVien.webp" alt="project 4" width="100%" />
                     </a>
                     <br>
                     <br>
@@ -246,7 +246,7 @@
                 <h3 align="center">Travel Landing Page</h3>
                 <div align="center" >  
                     <a href='https://travel-landing-page-omega-vert.vercel.app/' target="_blank">
-                        <img src="https://raw.githubusercontent.com/ivngzmn/ivanguzmandev/main/public/static/images/projects/travelLandingPage.webp" alt="project 3" height="100%" />
+                        <img src="https://raw.githubusercontent.com/ivngzmn/ivanguzmandev/main/public/static/images/projects/travelLandingPage.webp" alt="project 3" width="100%" />
                     </a>
                     <br>
                     <br>
@@ -266,7 +266,7 @@
                 <h3 align="center">Star Trek API</h3>
                 <div align="center">  
                     <a href='https://star-trek-beta.vercel.app/' target="_blank">
-                        <img src="https://raw.githubusercontent.com/ivngzmn/ivanguzmandev/main/public/static/images/projects/starTrekApi.webp" alt="project 4" height="100%" />
+                        <img src="https://raw.githubusercontent.com/ivngzmn/ivanguzmandev/main/public/static/images/projects/starTrekApi.webp" alt="project 4" width="100%" />
                     </a>
                     <br>
                     <br>

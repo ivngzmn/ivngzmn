@@ -32,11 +32,11 @@
 
 ## Bio
 
-## Hey, I’m Ivan! I’m a full stack developer 🥞.
+## Hey, I’m Ivan! I’m a software developer at Zeek Interactive.
 
-## I help build full-stack web applications that are performant and accessible. It's great to meet you.
+## I help build web applications that are performant and accessible. It's great to meet you.
 
-- 🌱 I’m currently learning about Typescript.
+- 🌱 I’m currently learning about PHP.
 - ❓ Feel free to reach out on [Twitter](https://twitter.com/inadequate_Dev) to have a coffee ☕️ chat.
 - ☕️ ["Blxck is Gxld"](https://cxffeeblack.com/collections/guji-mane-coffee/products/blxck-is-gxld-yailton-caicedo-colombian-guji-mane-diaspora-collection) coffee blend in my AeroPress.
 - ⚡ Fun fact: I am a father of two wonderful daughters and I also love [Saltwater Reef Aquariums 🐠 🪸](https://github.com/ivngzmn/reef-aquarium-supplement-calculator) and [mechanical keyboards ⌨️](https://github.com/ivngzmn/afternoon-labs-breeze-keeb).
@@ -196,7 +196,7 @@
 						</a>	
 					</p>
 					 <p><strong>React.js, Tailwind CSS</strong></p>
-					<p>Cryptocurrency is something that has interested me since hearing about people building rigs and people conversing about Non Fungible Tokens. So with that interest in mind I decided to create a Crypto web app that has 100 coins and Coin Gecko API. Thanks for stopping by and I hope you enjoy.</p>
+					<p>Cryptocurrency is something that has interested me since hearing about people building rigs and people conversing about Non Fungible Tokens. So with that interest in mind, I decided to create a Crypto web app that has 100 coins and Coin Gecko API. Thanks for stopping by and I hope you enjoy.</p>
 				</div>
         </tr>
 	    <tr>
@@ -217,7 +217,7 @@
 						</a>
                     </p>
                     <p><strong>React.js, Tailwind CSS</strong></p>
-		    <p>This website is for Attorney Belen Gomez, APC. She had built her own website via WordPress but was having trouble with styling and SEO. We came of with a plan to modernize her website. We are in the works to add WordPress API as a headless CMS so that she and her team can update the website as they desire.</p>
+		    <p>This website is for Attorney Belen Gomez, APC. She had built her own website via WordPress but was having trouble with styling and SEO. We came up with a plan to modernize her website. We are in the works to add WordPress API as a headless CMS so that she and her team can update the website as they desire.</p>
                 </div>
             </td>
             <td width="50%">
@@ -236,7 +236,7 @@
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>	
                     </p>
-                    <p><strong>HTML, Bootstap CSS, JavaScript</strong></p>
+                    <p><strong>HTML, Bootstrap CSS, JavaScript</strong></p>
 		    <p>This is a restaurant website that I built for a local vegan restaurant. I wanted to make a website that was simple and easy to use for their customers. I used Bootstrap for the styling and Javascript for the animations.</p>
                 </div>	
             </td>
@@ -279,7 +279,7 @@
 						</a>	
                     </p>
                     <p><strong>HTML, CSS, Javascript, Node.js, Express, MongoDB</strong></p>
-		    <p>This project is the front end that consumes the Star Trek Guid to Aliens api that I built. Please take a look at the repo details for the Star Trek Guid to Aliens API Repo to experience the API to its fullest. Live long and prosper.</p>
+		    <p>This project is the front end that consumes the Star Trek Guide to Aliens API that I built. Please take a look at the repo details for the Star Trek Guide to Aliens API Repo to experience the API to its fullest. Live long and prosper.</p>
                 </div>	
             </td>
         </tr>

@@ -20,9 +20,9 @@
     <a href="https://linkedin.com/in/ivan-j-guzman" target="_blank">
         <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
     </a>
-    <a href="https://www.ivanguzman.dev/resume" target="_blank">
+    <!-- <a href="https://www.ivanguzman.dev/resume" target="_blank">
         <img src=https://img.shields.io/badge/resume-%23EC1C24.svg?&style=for-the-badge&logo=AdobeAcrobatReader&logoColor=white alt=resume style="margin-bottom: 5px;" />
-    </a>
+    </a> -->
 
 ![Codewars badge](https://www.codewars.com/users/inadequateDev/badges/large)
 
@@ -152,14 +152,14 @@
 
 <br/>
 
-## Projects
+<!-- ## Projects -->
 
-<div align="center">
+<!-- <div align="center">
 	<table>
 		<tr>
 			<td width="50%">
 				<h3 align="center">Pronto Coffee Co.</h3>
-				<div align="center">  
+				<div align="center">
 					<a href='https://pronto-coffee-co.herokuapp.com/' target="_blank">
 						<img src="https://raw.githubusercontent.com/ivngzmn/ivanguzmandev/main/public/static/images/projects/prontoCoffeeCo.webp" alt="pronto coffee co." width="100%" />
 					</a>
@@ -168,7 +168,7 @@
 					<p>
 						<a href="https://github.com/ivngzmn/pronto-coffee-co" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-						</a>  
+						</a>
 						<a href="https://pronto-coffee-co.herokuapp.com/" target="_blank">
               <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>
@@ -181,7 +181,7 @@
 			</td>
 			<td width="50%">
 				<h3 align="center">Coin Forge</h3>
-				<div align="center" >  
+				<div align="center" >
 					<a href='https://coinforge.vercel.app/' target="_blank">
 						<img src="https://raw.githubusercontent.com/ivngzmn/ivanguzmandev/main/public/static/images/projects/coinForge.webp" alt="coin forge" width="100%" />
 					</a>
@@ -190,10 +190,10 @@
 					<p>
 						<a href="https://github.com/ivngzmn/coin-forge" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-						</a>  
+						</a>
 						<a href="https://coinforge.vercel.app/" target="_blank">
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
-						</a>	
+						</a>
 					</p>
 					 <p><strong>React.js, Tailwind CSS</strong></p>
 					<p>Cryptocurrency is something that has interested me since hearing about people building rigs and people conversing about Non Fungible Tokens. So with that interest in mind, I decided to create a Crypto web app that has 100 coins and Coin Gecko API. Thanks for stopping by and I hope you enjoy.</p>
@@ -202,7 +202,7 @@
 	    <tr>
             <td width="50%">
                 <h3 align="center">Belen Law</h3>
-                <div align="center" >  
+                <div align="center" >
                     <a href='https://belengomezlaw.vercel.app/' target="_blank">
                         <img src="https://raw.githubusercontent.com/ivngzmn/ivanguzmandev/main/public/static/images/projects/belenLaw.webp" alt="project 3" width="100%" />
                     </a>
@@ -211,7 +211,7 @@
                     <p>
                         <a href="https://github.com/ivngzmn/belen-law" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-						</a>  
+						</a>
 						<a href="https://belengomezlaw.vercel.app/" target="_blank">
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>
@@ -222,7 +222,7 @@
             </td>
             <td width="50%">
                 <h3 align="center">Thuyen Vien Vegan Restaurant</h3>
-                <div align="center">  
+                <div align="center">
                     <a href='https://thuyenvienrestaurant.vercel.app/' target="_blank">
                         <img src="https://raw.githubusercontent.com/ivngzmn/ivanguzmandev/main/public/static/images/projects/thuyenVien.webp" alt="project 4" width="100%" />
                     </a>
@@ -231,20 +231,20 @@
                     <p>
                         <a href="#" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-						</a>  
+						</a>
 						<a href="https://thuyenvienrestaurant.vercel.app/" target="_blank">
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
-						</a>	
+						</a>
                     </p>
                     <p><strong>HTML, Bootstrap CSS, JavaScript</strong></p>
 		    <p>This is a restaurant website that I built for a local vegan restaurant. I wanted to make a website that was simple and easy to use for their customers. I used Bootstrap for the styling and Javascript for the animations.</p>
-                </div>	
+                </div>
             </td>
         </tr>
         <tr>
             <td width="50%">
                 <h3 align="center">Travel Landing Page</h3>
-                <div align="center" >  
+                <div align="center" >
                     <a href='https://travel-landing-page-omega-vert.vercel.app/' target="_blank">
                         <img src="https://raw.githubusercontent.com/ivngzmn/ivanguzmandev/main/public/static/images/projects/travelLandingPage.webp" alt="project 3" width="100%" />
                     </a>
@@ -253,7 +253,7 @@
                     <p>
                         <a href="https://github.com/ivngzmn/travel-landing-page" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-						</a>  
+						</a>
 						<a href="https://travel-landing-page-omega-vert.vercel.app/" target="_blank">
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>
@@ -264,7 +264,7 @@
             </td>
             <td width="50%">
                 <h3 align="center">Star Trek API</h3>
-                <div align="center">  
+                <div align="center">
                     <a href='https://star-trek-beta.vercel.app/' target="_blank">
                         <img src="https://raw.githubusercontent.com/ivngzmn/ivanguzmandev/main/public/static/images/projects/starTrekApi.webp" alt="project 4" width="100%" />
                     </a>
@@ -273,18 +273,18 @@
                     <p>
                         <a href="https://github.com/ivngzmn/star-trek-client" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-						</a>  
+						</a>
 						<a href="https://star-trek-beta.vercel.app/" target="_blank">
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
-						</a>	
+						</a>
                     </p>
                     <p><strong>HTML, CSS, Javascript, Node.js, Express, MongoDB</strong></p>
 		    <p>This project is the front end that consumes the Star Trek Guide to Aliens API that I built. Please take a look at the repo details for the Star Trek Guide to Aliens API Repo to experience the API to its fullest. Live long and prosper.</p>
-                </div>	
+                </div>
             </td>
         </tr>
 	</table>
-</div>
+</div> -->
 <br />
 <br />
 <hr>
@@ -311,12 +311,12 @@
 
 <p>&nbsp;</p>
 
-## What I am jamming to
+<!-- ## What I am jamming to
 
 <div align="center">
     <a href="https://github.com/ivngzmn">
         <img src="https://spotify-github-profile.vercel.app/api/view?uid=1271605188&cover_image=true&theme=compact" /></a>
-</div>
+</div> -->
 
 <p>&nbsp;</p>
 

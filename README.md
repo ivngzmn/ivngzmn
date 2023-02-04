@@ -97,6 +97,9 @@
     <a href="#">
         <img src=https://img.shields.io/badge/graphql-%23E10098.svg?&style=for-the-badge&logo=graphql&logoColor=white alt=graphql style="margin-bottom: 5px;" />
     </a>
+    <a href="#">
+        <img src=https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white alt=php style="margin-bottom: 5px;" />
+    </a>
 </div>
 
 </td><td valign="top" width="25%">

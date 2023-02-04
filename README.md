@@ -296,15 +296,15 @@
 <div align="center">
 
 <a href="https://github.com/ivngzmn">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivngzmn&layout=compact&hide=css&theme=dracula" />
+        <img width="100%" alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivngzmn&layout=compact&hide=css&theme=dracula" />
     </a>
 <p>&nbsp;</p>
 <a href="https://github.com/ivngzmn">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=ivngzmn&count_private=true&show_icons=true&theme=dracula" />
+        <img width="100%" alt="" src="https://github-readme-stats.vercel.app/api?username=ivngzmn&count_private=true&show_icons=true&theme=dracula" />
     </a>
 <p>&nbsp;</p>
 <a href="https://github.com/ivngzmn">
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ivngzmn&theme=dracula" alt="ivngzmn" />
+        <img width="100%" alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=ivngzmn&theme=dracula" alt="ivngzmn" />
     </a>
 
 </div>

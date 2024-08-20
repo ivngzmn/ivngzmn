@@ -45,8 +45,7 @@
 
 ## Recent Blog Posts
 
-- [Setting up your macOS Terminal](https://www.ivanguzman.dev/blog/macos-terminal)
-- [The Story of my journey into Tech](https://www.ivanguzman.dev/blog/my-journey)
+- [Setting up your macOS Terminal](https://www.ivanguzman.dev/blog/setting-up-your-macos-terminal)
 
 <p>&nbsp;</p>
 

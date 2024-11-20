@@ -32,9 +32,9 @@
 
 ## Bio
 
-## Hey, I’m Ivan! I’m a software developer at Zeek Interactive.
+## Hey, I’m Ivan! I’m a software developer at Zeek Interactive
 
-## I help build web applications that are performant and accessible. It's great to meet you.
+## I build web applications that are performant and accessible. It's great to meet you
 
 - 🌱 I’m currently learning about PHP.
 - ❓ Feel free to reach out on [Twitter](https://twitter.com/inadequate_Dev) to have a coffee ☕️ chat.
@@ -46,6 +46,10 @@
 ## Recent Blog Posts
 
 - [Setting up your macOS Terminal](https://www.ivanguzman.dev/blog/setting-up-your-macos-terminal)
+
+- [Using Laravel Herd to get images from production for local WordPress development](https://www.ivanguzman.dev/blog/using-laravel-herd-to-get-images-from-production-for-local-wordpress-development)
+
+- [Turning SVGs into React components instead of using next/image to customize their appearance](https://www.ivanguzman.dev/blog/turning-svgs-into-react-components-instead-of-using-next-image-to-customize-their-appearance)
 
 <p>&nbsp;</p>
 
@@ -156,8 +160,8 @@
 
 <!-- ## Projects -->
 
-<!-- <div align="center">
-	<table>
+<div align="center">
+	<!-- <table>
 		<tr>
 			<td width="50%">
 				<h3 align="center">Pronto Coffee Co.</h3>
@@ -285,8 +289,8 @@
                 </div>
             </td>
         </tr>
-	</table>
-</div> -->
+	</table> -->
+</div>
 <br />
 <br />
 <hr>
@@ -322,12 +326,12 @@
 
 <p>&nbsp;</p>
 
-## Support
+<!-- ## Support
 
 <div align="center">
     <a href="https://www.buymeacoffee.com/ivanguzmandev" target="_blank" style="display: inline-block;">
-        <img src="https://img.shields.io/badge/Support-Buy%20Me%20A%20Coffee%20%E2%98%95%EF%B8%8F%20%20-success" 
+        <img src="https://img.shields.io/badge/Support-Buy%20Me%20A%20Coffee%20%E2%98%95%EF%B8%8F%20%20-success"
         align="center" height=30/></a>
 </div>
 
-<p>&nbsp;</p>
+<p>&nbsp;</p> -->

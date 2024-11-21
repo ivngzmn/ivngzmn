@@ -20,7 +20,7 @@
     <a href=https://linkedin.com/in/ivan-j-guzman target="_blank">
         <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
     </a>
-    <a href=www.codewars.com/r/N2EDgw target="_blank">
+    <a href=https://www.codewars.com/r/N2EDgw target="_blank">
         <img src=https://img.shields.io/badge/Join_Codewars-%23b92f21.svg?&style=for-the-badge&logo=codewars&logoColor=white alt=codewars style="margin-bottom: 5px;" />
     </a>
     <!-- <a href="https://www.ivanguzman.dev/resume" target="_blank">

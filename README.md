@@ -1,24 +1,27 @@
 <div align="center">
-    <a href="https://github.com/ivngzmn"> 
+    <a href="https://github.com/ivngzmn">
         <img src="https://komarev.com/ghpvc/?username=ivngzmn&label=Profile+Views&color=blueviolet&style=plastic" />
     </a>
 </div>
 
-<a href="https://github.com/ivngzmn/">
+<a href="https://github.com/ivngzmn" />
     <img src="./img/githubbanner.png" width=100%  align="left"/>
 </a>
 
 <p>&nbsp;</p>
 
 <div align="center">
-    <a href="https://www.ivanguzman.dev" target="_blank">
+    <a href=https://www.ivanguzman.dev target="_blank">
         <img src=https://img.shields.io/badge/website-%23512BD4.svg?&style=for-the-badge&logo=googlechrome&logoColor=white alt=instagram style="margin-bottom: 5px;" />
     </a>  
-    <a href="https://twitter.com/inadequate_Dev" target="_blank">
-        <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+    <a href=https://x.com/inadequate_Dev target="_blank">
+        <img src=https://img.shields.io/badge/x/twitter-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white alt=twitter style="margin-bottom: 5px;" />
     </a>
-    <a href="https://linkedin.com/in/ivan-j-guzman" target="_blank">
+    <a href=https://linkedin.com/in/ivan-j-guzman target="_blank">
         <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+    </a>
+    <a href=www.codewars.com/r/N2EDgw target="_blank">
+        <img src=https://img.shields.io/badge/Join_Codewars-%23b92f21.svg?&style=for-the-badge&logo=codewars&logoColor=white alt=codewars style="margin-bottom: 5px;" />
     </a>
     <!-- <a href="https://www.ivanguzman.dev/resume" target="_blank">
         <img src=https://img.shields.io/badge/resume-%23EC1C24.svg?&style=for-the-badge&logo=AdobeAcrobatReader&logoColor=white alt=resume style="margin-bottom: 5px;" />
@@ -32,9 +35,9 @@
 
 ## Bio
 
-## Hey, I’m Ivan! I’m a software developer at Zeek Interactive
+### Hey, I’m Ivan! I’m a software developer at Zeek Interactive
 
-## I build web applications that are performant and accessible. It's great to meet you
+### I build web applications that are performant and accessible. It's great to meet you
 
 - 🌱 I’m currently learning about PHP.
 - ❓ Feel free to reach out on [Twitter](https://twitter.com/inadequate_Dev) to have a coffee ☕️ chat.
@@ -62,16 +65,16 @@
 <div align="center">
 <a href="#">
         <img src=https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white alt=html style="margin-bottom: 5px;" />
-    </a> 
+    </a>
 <a href="#">
         <img src=https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white alt=css style="margin-bottom: 5px;" />
-    </a> 
+    </a>
 <a href="#">
-        <img src=https://img.shields.io/badge/tailwind-%2306B6D4.svg?&style=for-the-badge&logo=TailwindCSS&logoColor=white alt=tailwind style="margin-bottom: 5px;" />
-    </a> 
+        <img src=https://img.shields.io/badge/tailwind_css-%2306B6D4.svg?&style=for-the-badge&logo=TailwindCSS&logoColor=white alt=tailwind style="margin-bottom: 5px;" />
+    </a>
 <a href="#">
         <img src=https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black alt=javascript style="margin-bottom: 5px;" />
-    </a> 
+    </a>
     <a href="#">
         <img src=https://img.shields.io/badge/React-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black alt=react.js style="margin-bottom: 5px;" />
     </a>
@@ -161,7 +164,7 @@
 <!-- ## Projects -->
 
 <div align="center">
-	<!-- <table>
+ <!-- <table>
 		<tr>
 			<td width="50%">
 				<h3 align="center">Pronto Coffee Co.</h3>

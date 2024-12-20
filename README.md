@@ -35,7 +35,7 @@
 
 ## Bio
 
-### Hey, I’m Ivan! I’m a software developer at Zeek Interactive
+### Hey, I’m Ivan! I’m a Full-Stack software developer
 
 ### I build web applications that are performant and accessible. It's great to meet you
 

@@ -39,7 +39,7 @@
 
 ### I build web applications that are performant and accessible. It's great to meet you
 
-- 🌱 I’m currently learning about C# && .NET.
+- 🌱 I’m currently learning about C# & dotnet.
 - ❓ Feel free to reach out on [Twitter](https://twitter.com/inadequate_Dev) to have a coffee ☕️ chat.
 - ☕️ ["Blxck is Gxld"](https://cxffeeblack.com/collections/guji-mane-coffee/products/blxck-is-gxld-yailton-caicedo-colombian-guji-mane-diaspora-collection) coffee blend in my AeroPress.
 - ⚡ Fun fact: I am a father of two wonderful daughters and I also love [Saltwater Reef Aquariums 🐠 🪸](https://github.com/ivngzmn/reef-aquarium-supplement-calculator) and [mechanical keyboards ⌨️](https://github.com/ivngzmn/afternoon-labs-breeze-keeb).
